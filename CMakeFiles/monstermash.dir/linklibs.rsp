@@ -1,0 +1,1 @@
+ -sWASM=1 -sUSE_SDL=2 -sUSE_SDL_TTF=2 -sALLOW_MEMORY_GROWTH=1 -sMINIFY_HTML=0 -sENVIRONMENT=web --preload-file /home/zhouxiao/Documents/monster-mash-main/src/../data/shaders@../../data/shaders --shell-file /home/zhouxiao/Documents/monster-mash-main/src/ui/myshell.html -sFULL_ES2=1 
