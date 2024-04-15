@@ -1,3 +1,0 @@
-/home/zhouxiao/Documents/monster-mash-main/src/build/CMakeFiles/monstermash.dir
-/home/zhouxiao/Documents/monster-mash-main/src/build/CMakeFiles/edit_cache.dir
-/home/zhouxiao/Documents/monster-mash-main/src/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/home/zhouxiao/Documents/emsdk/upstream/emscripten/em++ -O3 -DNDEBUG @CMakeFiles/monstermash.dir/objects1.rsp -o monstermash.html @CMakeFiles/monstermash.dir/linklibs.rsp
